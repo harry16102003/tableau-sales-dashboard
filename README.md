@@ -2,8 +2,6 @@
 
 🚀 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/harsh.bandal/viz/sales-dashboard-project/SalesDashboard)
 
-![Sales Dashboard Icon](./Icon%20-%20Sales%20Dashboard(active).png)
-
 ## 📌 Overview
 An interactive **Sales Dashboard** built using Tableau, analyzing sales performance across regions, categories, and time. It enables business stakeholders to monitor KPIs, uncover trends, and take data-driven decisions efficiently.
 
