@@ -47,14 +47,6 @@ An interactive **Sales Dashboard** built using Tableau, analyzing sales performa
 
 ---
 
-## 💻 How to Use
-1. Clone or download this repository.
-2. Open `sales-dashboard-project.twbx` in Tableau.
-3. Explore filters, KPIs, and charts.
-4. Replace or update datasets as needed.
-
----
-
 ## 🧪 Sample Icons for Dashboard Switching
 ![Customer Icon](./Icon%20-%20Customer%20Dashboard.png)
 ![Customer Icon Active](./Icon%20-%20Customer%20Dashboard%20(active).png)
